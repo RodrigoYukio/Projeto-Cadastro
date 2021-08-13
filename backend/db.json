@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Rodrigo Yukio da Silva",
+      "email": "rodrigo_ys@hotmail.com",
+      "cpf": "000.000.000",
+      "Vinculo": "Anual",
+      "telefone": "(43) 0000-0000",
+      "date": "12/8/2021",
+      "id": 1
+    },
+    {
+      "name": "Leticia Lie",
+      "email": "let_ro0109@hotmail.com",
+      "cpf": "000.000.00-00",
+      "Vinculo": "Semanal",
+      "telefone": "(43) 98814-0000",
+      "date": "13/8/2021",
+      "id": 2
+    }
+  ]
+}
